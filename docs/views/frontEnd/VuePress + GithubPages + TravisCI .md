@@ -1,5 +1,5 @@
 ---
-title: 创建 VuePress + GithubPages + TravisCI 在线文档
+title: vuePress + GithubPages + TravisCI 免费在线文档构建
 date: 2020-03-16
 sidebar: "auto"
 categories:
