@@ -1,2 +1,8 @@
+# Command to start on workspace startup (optional)
 tasks:
-  - init: npm install&&npm run docs:dev
+  - init: yarn install
+    command: yarn docs:dev
+# Ports to expose on workspace startup (optional)
+ports:
+  - port: 8080
+    onOpen: open-preview
