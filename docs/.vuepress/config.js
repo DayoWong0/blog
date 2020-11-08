@@ -82,6 +82,10 @@ module.exports = {
   },
   markdown: {
     lineNumbers: true, //代码显示行号
+    // Typeora图片路径问题
+    extendMarkdown: md => {
+      md.use(require("markdown-it-disable-url-encode"))
+    }
   }, // 搜索设置
   search: true,
   searchMaxSuggestions: 10, // 插件

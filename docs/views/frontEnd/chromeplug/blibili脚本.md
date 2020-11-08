@@ -96,7 +96,7 @@ $(".tit").dblclick(function copy() {
   document.getElementsByClassName("list-box")[0];
   ```
 
-![image-20201101010101842](./img/blibili%E8%84%9A%E6%9C%AC/image-20201101010101842.png)
+![image-20201101010101842](img/blibili%E8%84%9A%E6%9C%AC/image-20201101010101842.png)
 
 - 2
 
@@ -104,7 +104,7 @@ $(".tit").dblclick(function copy() {
   document.getElementsByClassName("list-box")[0].textContent;
   ```
 
-![image-20201101010132720](./img/blibili%E8%84%9A%E6%9C%AC/image-20201101010132720.png)
+![image-20201101010132720](img/blibili%E8%84%9A%E6%9C%AC/image-20201101010132720.png)
 
 - 3
 
@@ -112,7 +112,7 @@ $(".tit").dblclick(function copy() {
 document.getElementsByClassName("list-box")[0].innerText;
 ```
 
-![image-20201101010150208](./img/blibili%E8%84%9A%E6%9C%AC/image-20201101010150208.png)
+![image-20201101010150208](img/blibili%E8%84%9A%E6%9C%AC/image-20201101010150208.png)
 
 - 4
 
@@ -120,19 +120,19 @@ document.getElementsByClassName("list-box")[0].innerText;
   document.querySelectorAll(".list-box li");
   ```
 
-  ![image-20201101012738436](./img/blibili%E8%84%9A%E6%9C%AC/image-20201101012738436.png)
+  ![image-20201101012738436](img/blibili%E8%84%9A%E6%9C%AC/image-20201101012738436.png)
 
   ```javascript
   document.querySelectorAll(".list-box li")[0].innerText;
   ```
 
-  ![image-20201101012851680](./img/blibili%E8%84%9A%E6%9C%AC/image-20201101012851680.png)
+  ![image-20201101012851680](img/blibili%E8%84%9A%E6%9C%AC/image-20201101012851680.png)
 
   ```javascript
   document.querySelectorAll(".list-box li")[0].textContent;
   ```
 
-  ![image-20201101012938317](./img/blibili%E8%84%9A%E6%9C%AC/image-20201101012938317.png)
+  ![image-20201101012938317](img/blibili%E8%84%9A%E6%9C%AC/image-20201101012938317.png)
 
   其实到这里基本功能就能实现了，我还想把网址加上去。 ?p=第几集 参数
 
