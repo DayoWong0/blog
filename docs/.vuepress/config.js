@@ -89,7 +89,7 @@ module.exports = {
     [
       "@vuepress-reco/vuepress-plugin-rss", //RSS插件
       {
-        site_url: "https://dayowong0.github.io/blog/", //网站地址
+        site_url: "https://dayowong0.github.io/", //网站地址
         copyright: "Dayo", //版权署名
       },
     ],
