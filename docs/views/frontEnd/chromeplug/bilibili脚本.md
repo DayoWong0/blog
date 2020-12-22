@@ -11,7 +11,7 @@ tags:
   - 油猴脚本
 ---
 
-# blibili 脚本
+# bilibili 脚本
 
 ## 功能介绍
 
