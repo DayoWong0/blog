@@ -4,6 +4,8 @@ bgImage: "/background.jpg"
 bgImageStyle: { height: "350px" }
 ---
 
-<p align="center">
-  <social-share />
-</p>
+[comment]: <> (<p align="center">)
+
+[comment]: <> (  <social-share></social-share>)
+
+[comment]: <> (</p>)
