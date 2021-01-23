@@ -13,7 +13,7 @@ module.exports = {
       },
     ], //在移动端，搜索框在获得焦点时会放大
   ],
-  // base: '/blog/', 
+  // base: '/blog/',
   theme: "reco", //选择主题‘reco’
   themeConfig: {
     type: "blog", //选择类型博客
@@ -55,7 +55,8 @@ module.exports = {
           },
           {
             text: "QQ",
-            link: "tencent://message/?uin=1950882442",
+            // link: "tencent://message/?uin=1950882442",
+            link: "http://wpa.qq.com/msgrd?v=3&uin=1950882442&site=qq&menu=yes",
             icon: "reco-qq",
           },
           {
