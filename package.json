@@ -1,5 +1,8 @@
 {
   "scripts": {
+    "init": "npm install",
+    "push-mac": "git add . && git commit -m `date +%Y/%m/%d-%H:%M:%S` && git push",
+    "push-win": "git add . && git commit -m %date% && git push",
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
     "coverage": "nyc --reporter=lcov --reporter=text-summary npm run docs:build"
