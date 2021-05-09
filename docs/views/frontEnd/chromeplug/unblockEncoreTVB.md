@@ -3,7 +3,7 @@ title: UnblockEncoreTVB - 解除 encoreTVB 地区限制的Chrome插件
 date: 2021-05-09
 sidebar: "auto"
 categories:
-  - 前端
+  - 前端 
 tags:
   - JavaScript
   - chrome
@@ -71,7 +71,10 @@ tags:
 
 点击`选择文件夹`安装完成后即可使用，打开 [encoretvb.com](https://encoretvb.com) 便可以愉快的看剧了，
 
-由于此网站服务器位于美国，加载网页时速度可能不快，但是看视频的时候网速不错，因为网页服务器位于美国，而视频服务器有 CDN 加速，经过本人半年的使用体验来说，体验一级棒，视频画质就 720P 勉强凑合。
+由于此网站服务器位于美国，加载网页时速度可能不快，但是看视频的时候网速不错，因为网页服务器位于美国，而视频服务器有 CDN 加速，经过本人半年的使用体验来说，体验一级棒，视频画质就 720P 勉强凑合，这时候适合来一句老罗经典语录。
+
+<img src="./img/unblockEncoreTVB/FE14691E308E8353C137350A4ADE9397.jpg" alt="img" style="zoom: 50%;" />
+
 
 ## 参考
 
